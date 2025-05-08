@@ -1,0 +1,407 @@
+[
+    {
+      "assessment_name": "Automata - Fix (New) | SHL",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+      "description": "Simulated compiler integrated test to measure debugging skills in C, C++ or Java. The test checks the ability to fix logical and syntactical errors and to reuse an existing code. Relevant job roles are Application Developer, Application Integration Engineer,Software Testing Engineer, Quality Analyst, QA Engineer,Manual Tester",
+      "remote_support": "Yes",
+      "adaptive_support": "Not specified",
+      "duration": 20,
+      "test_type": ["Simulations"]
+    },
+    {
+      "assessment_name": "Core Java (Entry Level) (New) | SHL",
+      "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+      "description": "Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, file handling, exception handling, threads, generic class and inner class. Relevant job roles are Core Java Developer, Software Developer, Backend Developer, Android Developer ",
+      "remote_support": "Yes",
+      "adaptive_support": "Not specified",
+      "duration": 15,
+      "test_type": ["Knowledge & Skills"]
+    },
+    {
+        "assessment_name": "Java 8 (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+        "description": "Multi-choice test that measures the knowledge of Java class design, exceptions, generics, collections, concurrency, JDBC and Java I/O fundamentals. Relevant job roles are Java Developer, Backend Development Engineer, Software Developer, Backend Developer",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 25,
+        "test_type": ["Knowledge & Skills"]
+      },
+      {
+        "assessment_name": "Core Java (Advanced Level) (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+        "description": "Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, files and exception handling, and advanced Java concepts like generics, collections, threads, strings and concurrency. Relevant job roles are Java Architect, Backend Development Engineer, SoftwareDeveloper, Backend Developer, Android Developer",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 15,
+        "test_type": ["Knowledge & Skills"]
+      },
+      {
+        "assessment_name": "Agile Software Development",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+        "description": "Multi-choice test that measures the knowledge of agile methodology, scrum, feature driven software development, incremental and iterative development and processes involved in agile software development. Relevant job roles are Scrum Master, Agile Software Developer, Agile Development Engineer, Agile Software Consultant",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 7,
+        "test_type": ["Knowledge & Skills"]
+      },
+      {
+        "assessment_name": "Technology Professional 8.0 Job Focused Assessment",
+        "url": "https://www.shl.com/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+        "description": "The Technology Job Focused Assessment assesses key behavioral attributes required for success in fast-paced, rapidly evolving technology environments , providing an indication of the candidate's longer term potential.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 16,
+        "test_type": ["Competencies","Personality & Behavior"]
+      },
+      {
+        "assessment_name": "Computer Science (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/",
+        "description": "Multi-choice test that measures the knowledge of operating system, computer architecture, DBMS and basics of computer networks and communication. Relevant job roles are Software Engineer, Big Data Engineer, Research Engineer, DevOps Engineer",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 12,
+        "test_type": ["Knowledge & Skills"]
+      },
+      {
+        "assessment_name": "Entry level Sales 7.1 (International)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+        "description": "The Entry Level Sales 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 20,
+        "test_type": ["Biodata & Situational Judgement","Competencies","Personality & Behavior"]
+      },
+      {
+        "assessment_name": "Entry Level Sales Sift Out 7.1",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+        "description": "The Entry Level Sales Sift Out 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 20,
+        "test_type": ["Biodata & Situational Judgement","Competencies","Personality & Behavior"]
+      },
+      {
+        "assessment_name": "Entry Level Sales Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+        "description": "The Precise Fit Entry Level Sales Roles Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 20,
+        "test_type": ["Competencies","Personality & Behavior"]
+      },
+      {
+        "assessment_name": "Sales Representative Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/",
+        "description": "The Sales Representative solution is for entry-level sales positions in which employees proactively sell products to customers and have their pay and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer. Potential job titles that use this solution are: Sales Representative, Sales Associate, and Sales Clerk.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 29,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"]
+      },
+      {
+        "assessment_name": "Sales Support Specialist Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-support-specialist-solution/",
+        "description": "The Sales Support Specialist solution is for entry to mid-level sales support positions in which employees work primarily under the guidance of an account manager or operations manager in support of client accounts. Sample tasks for these jobs include, but are not limited to: implementing customer orders, assisting with and coordinating activities, and utilizing processes to meet customer requirements. Potential job titles that use this solution are: Implementation Specialist, Project Assistant, and Sales Support Assistant. Multiple configurations of this solution are available.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 43,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"]
+      },
+      {
+        "assessment_name": "Technical Sales Associate Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+        "description": "The Technical Sales Associate solution is for entry-level retail positions in which employees proactively sell a specific line of products that requires substantial knowledge about the products and have their pay and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: obtaining detailed product information, promoting products to customers, persuading customers to buy products, and completing a transaction with a customer. Potential job titles that use this solution are: Sales Representative, Retail Sales Associate, and Sales Clerk. Multiple configurations of this solution are available.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 41,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"]
+      },
+      {
+        "assessment_name": "SVAR - Spoken English (Indian Accent) (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+        "description": "An automated spoken English test that measures fluency, pronunciation, active listening, vocabulary, grammar and spoken English understanding. ",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": "Not specified",
+        "test_type": ["Simulations"]
+      },
+      {
+        "assessment_name": "Sales & Service Phone Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-solution/",
+        "description": "As part of Contact Center Simulations, the Sales & Service Phone Solution includes a contact center simulation and three behavioral tests designed to measure a wide range of skills, competencies, and behavioral tendencies relevant for contact center jobs. This solution is designed for contact center roles that involve sales or sales-related behaviors such as recommending products or services and retaining customers. Sample tasks for these jobs include: interact with customers on the phone to sell a product/service; add new or upgraded products or services; extend promotional or retention offers; respond appropriately to customer objections; navigate to information menus to assist the customer and process information; and type information quickly and accurately. Potential job titles that use this simulation are: Telesales Representative, Telemarketer, and Contact Center Representative. The behavioral tests in this solution are intended to measure the candidate’s sales focus, learning potential, and the tendency to meet goals and work hard, even when faced with obstacles. Collectively, the assessments in this solution measure a wide range of important skills, abilities, and behaviors for entry-level contact center roles involving sales or sales and service.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 35,
+        "test_type": ["Biodata & Situational Judgement","Personality & Behavior","Simulations"]
+      },
+      {
+        "assessment_name": "Sales & Service Phone Simulation",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-simulation/",
+        "description": "As part of Contact Center Simulations, the Sales & Service Phone Simulation is designed for contact center roles that involve sales or sales-related behaviors such as recommending products or services and retaining customers. Sample tasks for these jobs include: interacting with customers on the phone to sell a product/service; adding new or upgraded products or services; extending promotional or retention offers; responding appropriately to customer objections; navigating to information menus to assist the customer and process information; and typing information quickly and accurately. Potential job titles that use this simulation include: telesales representative, outbound sales representative, telemarketer, and contact center representative",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 20,
+        "test_type": ["Biodata & Situational Judgement","Simulations"]
+      },
+      {
+        "assessment_name": "English Comprehension (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/",
+        "description": "Multiple-choice test that measures vocabulary, grammar and reading comprehension skills.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 0,
+        "test_type": ["Knowledge & Skills"]
+      },
+      {
+        "assessment_name": "Motivation Questionnaire MQM5",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mqm5/",
+        "description": "By understanding what motivates their staff, managers can unlock each individual’s full potential and direct their energies more constructively. This questionnaire measures 18 dimensions of an individual's motivation, and provides a comprehensive understanding of those situations which increase and reduce their motivation.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 25,
+        "test_type": ["Personality & Behavior"]
+      },
+      {
+        "assessment_name": "Global Skills Assessment",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+        "description": "The Global Skills Assessment (GSA) is an assessment used to measure 96 discrete skills/behaviors. These 96 skill scores are directly aligned to the most discrete level of SHL's Universal Competency Framework (UCF). The GSA measures self-reported behaviors an individual currently engages in. A person's skills (sets of behavior) are malleable and may change over time. SHL utilizes GSA scores to understand what the participant reports they can do today.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 16,
+        "test_type": ["Competencies","Knowledge & Skills"]
+      },
+      {
+        "assessment_name": "Graduate 8.0 Job Focused Assessment",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-8-0-job-focused-assessment-4228/",
+        "description": "The Graduate 8.0 Job Focused Assessment is a short, targeted, globally applicable assessment to help you identify graduates with the highest potential to contribute and succeed. It also provides actionable feedback to help you onboard new hires.It is designed for professional level positions appropriate for recent college graduates and is available as part of SHL's Graduate Solution. ",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 20,
+        "test_type": ["Biodata & Situational Judgement","Personality & Behavior"]
+      },
+      {
+        "assessment_name": "Drupal (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
+        "description": "Multi-choice test that measures the knowledge of Drupal setup, content management, user interface, module development and security.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 17,
+        "test_type": ["Knowledge & Skills"]
+      },
+      {
+        "assessment_name": "Search Engine Optimization (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/search-engine-optimization-new/",
+        "description": "Multi-choice test that measures the knowledge on the concepts of need of SEO, SEO planning, SEO strategies, SEO software, tools and exchanging links.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 12,
+        "test_type": ["Knowledge & Skills"]
+      },
+      {
+        "assessment_name": "Administrative Professional - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form",
+        "description": "The Administrative Professional solution is for entry to mid-level positions that involve routine clerical and administrative functions in addition to office management functions and customer service. Sample tasks for this job include, but are not limited to: arranging conference calls; drafting correspondence; scheduling meetings; greeting visitors; coordinating office activities. Potential job titles that use this solution are: Administrative Assistant, Secretary, Office Manager, Administrative Aide, and Administrative Associate.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 36,
+        "test_type": ["Ability & Aptitude","Knowledge & Skills","Personality & Behavior"]
+      },
+      {
+        "assessment_name": "Entry Level Sales Sift Out 7.1",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+        "description": "The Entry Level Sales Sift Out 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer ",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 20,
+        "test_type": ["Competencies","Personality & Behavior","Biodata & Situational Judgement"]
+      },
+      {
+        "assessment_name": "General Entry Level - Data Entry 7.0 Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+        "description": "Our General Entry Level – Data Entry 7.0 solution is designed for entry-level positions that include entering data into computers or data management systems. This solution measures speed and accuracy at typing text and numbers into forms and predicts the following types of behaviors foundational to all jobs: being on-time to work; following rules and policies; treating others respectfully; producing quality work; meeting goals; and approaching work in a thorough and precise manner. This solution can be used across all industries with entry-level positions. Example titles include, but are not limited to: Accounting Clerk, Accounts Receivable Clerk, Administrative Clerk, Clerical Aide, Clerical Assistant, Office Assistant, Office Services Specialist, Staff Assistant.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 24,
+        "test_type": ["Knowledge & Skills","Biodata & Situational Judgement"]
+      },
+      {
+        "assessment_name": "Automata Selenium",
+        "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+        "description": "A coding simulation assessment that evaluates the ability to conduct tasks related to automation testing using Selenium scripts.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 60,
+        "test_type": ["Simulations"]
+      },
+      {
+        "assessment_name": "Automata - Fix (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+        "description": "A simulated compiler integrated test to measure debugging skills in C, C++ and Java. The test checks the ability to fix logical or syntactical errors and to reuse an existing code. ",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 20,
+        "test_type": ["Simulations"]
+      },
+      {
+        "assessment_name": "Automata Front End",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-front-end/",
+        "description": "Simulation based test that measures the front-end development capabilities using HTML, CSS, and JavaScript. The candidate is provided with 3 different sections to code in HTML, CSS and JavaScript respectively and a separate output section to view the output. This simulation is then manually scored.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 30,
+        "test_type": ["Simulations"]
+      },
+      {
+        "assessment_name": "JavaScript (New)",
+        "url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
+        "description": "Multi-choice test that measures knowledge of programming in the JavaScript language and its application in front-end development.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 9,
+        "test_type": ["Knowledge & Skills"]
+      },
+      {
+        "assessment_name": "HTML/CSS (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
+        "description": "Multi-choice test that measures the knowledge of HTML to create a user interface and CSS to stylize it.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 12,
+        "test_type": ["Knowledge & Skills"]
+      },
+      {
+        "assessment_name": "HTML5 (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/html5-new/",
+        "description": "Multi-choice test that measures the knowledge of HTML5 and its application in creating a user interface.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 11,
+        "test_type": ["Knowledge & Skills"]
+      },
+      {
+        "assessment_name": "CSS3 (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/css3-new/",
+        "description": "Multi-choice test that measures the knowledge of CSS3 and its application in providing style to web documents.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 8,
+        "test_type": ["Knowledge & Skills"]
+      },
+      {
+        "assessment_name": "Selenium (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
+        "description": "Multi-choice test that measures the knowledge of Selenium IDE, Selenium RC, Selenium grid, web driver, test design considerations, user extensions, frameworks and object repository.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 10,
+        "test_type": ["Knowledge & Skills"]
+      },
+      {
+        "assessment_name": "SQL Server (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/",
+        "description": "Multi-choice test that measures the knowledge of basic SQL queries, creating and altering tables, filtering, grouping, aggregation in SQL and querying multiple tables.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 11,
+        "test_type": ["Knowledge & Skills"]
+      },
+      {
+        "assessment_name": "Automata - SQL (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+        "description": "A simulated query writing test that measures the ability to write SQL queries to perform DDL, DML and DCL tasks. ",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 30,
+        "test_type": ["Simulations"]
+      },
+      {
+        "assessment_name": "Manual Testing (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+        "description": "Multi-choice test that measures the knowledge of the software testing life cycle, testing tools and techniques, design of test cases and generation of test reports.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 10,
+        "test_type": ["Knowledge & Skills"]
+      },
+      {
+        "assessment_name": "Administrative Professional - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/administrative-professional-short-form/",
+        "description": "The Administrative Professional solution is for entry to mid-level positions that involve routine clerical and administrative functions in addition to office management functions and customer service. Sample tasks for this job include, but are not limited to: arranging conference calls; drafting correspondence; scheduling meetings; greeting visitors; coordinating office activities. Potential job titles that use this solution are: Administrative Assistant, Secretary, Office Manager, Administrative Aide, and Administrative Associate.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 36,
+        "test_type": ["Ability & Aptitude","Knowledge & Skills","Personality & Behavior"]
+      },
+      {
+        "assessment_name": "Verify - Numerical Ability",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/",
+        "description": "The next-generation Verify Numerical Ability Test provides a replacement for the existing Numerical Reasoning test in our Verify range of ability tests and the Global Cognitive Index – Adaptive Quantitative test, and measures the ability to: • Derive the numerical problem from a written problem • Calculate the answer to numerical equations • Work with numerical data in a realistic workplace context The test is 20 minutes long, has 16 items and is designed to provide an indication of how an individual will perform when asked to work with numerical information or statistical details. ",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 20,
+        "test_type": ["Ability & Aptitude"]
+      },
+      {
+        "assessment_name": "Financial Professional - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
+        "description": "This solution is for mid-level financial institution positions that require Series 6/7 certification. Candidates answer multiple choice questions to measure financial professional aptitude, learning potential, achievement orientation, conscientiousness, persistence and planfulness, self leadership, interpersonal leadership, sales focus and customer focus.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 35,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Personality & Behavior"]
+      },
+      {
+        "assessment_name": "Bank Administrative Assistant - Short Form",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-administrative-assistant-short-form/",
+        "description": "The Administrative Assistant solution is for entry-level clerical positions that interact with external or internal customers. Sample tasks for these jobs include, but are not limited to: answering telephones, managing files and records, sorting mail, greeting customers, and collaborating with co-workers on projects. Potential job titles that use this solution are: Receptionist and Administrative Assistant. There are multiple configurations of this solution available.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 35,
+        "test_type": ["Ability & Aptitude","Biodata & Situational Judgement","Knowledge & Skills","Personality & Behavior"]
+      },
+      {
+        "assessment_name": "General Entry Level – Data Entry 7.0 Solution",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+        "description": "Our General Entry Level – Data Entry 7.0 solution is designed for entry-level positions that include entering data into computers or data management systems. This solution measures speed and accuracy at typing text and numbers into forms and predicts the following types of behaviors foundational to all jobs: being on-time to work; following rules and policies; treating others respectfully; producing quality work; meeting goals; and approaching work in a thorough and precise manner. This solution can be used across all industries with entry-level positions. Example titles include, but are not limited to: Accounting Clerk, Accounts Receivable Clerk, Administrative Clerk, Clerical Aide, Clerical Assistant, Office Assistant, Office Services Specialist, Staff Assistant.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 24,
+        "test_type": ["Biodata & Situational Judgement","Knowledge & Skills"]
+      },
+      {
+        "assessment_name": "Basic Computer Literacy (Windows 10) (New)",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-computer-literacy-windows-10-new",
+        "description": "The Basic Computer Literacy (Windows 10) simulation measures knowledge of general computer terminology, processes, and applications and the ability to perform certain operations in a simulated environment resembling the actual application. This simulation consists of both multiple choice and simulation-based questions, and includes the following topics: Application Software, Computer Terms, Internet and Email, Managing Files, Operating System, and Parts of the Computer.  ",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 30,
+        "test_type": ["Simulations","Knowledge & Skills"]
+      },
+      {
+        "assessment_name": "Verify - Verbal Ability - Next Generation",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/",
+        "description": "The Verbal Ability test measures the ability to read written passages and comprehend the text, interpret tone and author intent, identify main ideas, and predict author responses. Sample tasks for jobs that may require verbal ability include, but are not limited to: working with reports, correspondence, instructions, and research information. The Verbal Ability test, due to its adaptive nature, is appropriate for all job levels and roles. ",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 15,
+        "test_type": ["Ability & Aptitude"]
+      },
+      {
+        "assessment_name": "SHL Verify Interactive - Inductive Reasoning",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+        "description": "Evaluates ability to identify specific patterns in data or situations and generalize that information to broader contexts. ",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 20,
+        "test_type": ["Ability & Aptitude","Simulations"]
+      },
+      {
+        "assessment_name": "Occupational Personality Questionnaire OPQ32r",
+        "url": "https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+        "description": "The SHL Occupational Personality Questionnaire, the OPQ32, is one of the most widely used and respected measures of workplace behavioural style in the world. It sets a high standard of measurement excellence, providing HR professionals and business managers with relevant and accurate information to make fast and well-informed people decisions. The OPQ32 provides a clear framework for understanding the impact of personality on job performance. It is internationally recognised for its accuracy of assessment. Over 90 independent validation studies have been conducted on the OPQ over a period of 25 years, across 20 countries and 40 industries, providing concrete evidence of its power to predict performance in the workplace.",
+        "remote_support": "Yes",
+        "adaptive_support": "Not specified",
+        "duration": 25,
+        "test_type": ["Personality & Behavior"]
+      }
+  ]
