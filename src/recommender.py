@@ -5,7 +5,7 @@ import os
 
 
 DATA_FILE_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'assessments_data.json')
-MODEL_NAME = 'all-MiniLM-L6-v2'
+MODEL_NAME = 'paraphrase-MiniLM-L3-v2' 
 
 assessments_data = []
 assessment_embeddings = None
